@@ -1,0 +1,539 @@
+Date: 2022-04-02 CST
+[14:00:05.787] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[14:00:05.874] Command line: /usr/bin/weston --log=/weston.log
+[14:00:05.874] OS: Linux, 5.4.70-2.3.0, #1 SMP PREEMPT Thu Mar 16 20:13:10 PDT 2023, aarch64
+[14:00:05.874] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[06:50:05.106] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[06:50:05.110] Command line: /usr/bin/weston --log=/weston.log
+[06:50:05.110] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[06:50:05.110] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[07:18:10.263] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[07:18:10.265] Command line: /usr/bin/weston --log=/weston.log
+[07:18:10.265] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[07:18:10.265] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[09:07:50.817] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[09:07:50.863] Command line: /usr/bin/weston --log=/weston.log
+[09:07:50.863] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[09:07:50.863] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[12:32:22.730] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:32:22.732] Command line: /usr/bin/weston --log=/weston.log
+[12:32:22.732] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[12:32:22.732] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[12:48:21.853] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:48:21.855] Command line: /usr/bin/weston --log=/weston.log
+[12:48:21.855] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[12:48:21.855] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-03 CST
+[14:42:06.534] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[14:42:06.535] Command line: /usr/bin/weston --log=/weston.log
+[14:42:06.535] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[14:42:06.535] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[05:03:33.094] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:03:33.096] Command line: /usr/bin/weston --log=/weston.log
+[05:03:33.096] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Mon Mar 20 20:01:03 PDT 2023, aarch64
+[05:03:33.096] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[05:11:59.556] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:11:59.561] Command line: /usr/bin/weston --log=/weston.log
+[05:11:59.561] OS: Linux, 5.4.70-2.3.0, #1 SMP PREEMPT Tue Mar 21 04:42:42 PDT 2023, aarch64
+[05:11:59.561] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[05:31:54.512] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:31:54.514] Command line: /usr/bin/weston --log=/weston.log
+[05:31:54.514] OS: Linux, 5.4.70-2.3.0, #3 SMP PREEMPT Tue Mar 21 18:45:49 PDT 2023, aarch64
+[05:31:54.514] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[05:49:29.713] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:49:29.715] Command line: /usr/bin/weston --log=/weston.log
+[05:49:29.715] OS: Linux, 5.4.70-2.3.0, #4 SMP PREEMPT Tue Mar 21 19:04:16 PDT 2023, aarch64
+[05:49:29.715] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[07:14:45.807] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[07:14:45.809] Command line: /usr/bin/weston --log=/weston.log
+[07:14:45.809] OS: Linux, 5.4.70-2.3.0, #5 SMP PREEMPT Tue Mar 21 20:29:10 PDT 2023, aarch64
+[07:14:45.809] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[08:50:09.553] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[08:50:09.554] Command line: /usr/bin/weston --log=/weston.log
+[08:50:09.555] OS: Linux, 5.4.70-2.3.0, #6 SMP PREEMPT Tue Mar 21 20:49:56 PDT 2023, aarch64
+[08:50:09.555] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[09:03:28.905] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[09:03:28.908] Command line: /usr/bin/weston --log=/weston.log
+[09:03:28.908] OS: Linux, 5.4.70-2.3.0, #7 SMP PREEMPT Tue Mar 21 22:17:53 PDT 2023, aarch64
+[09:03:28.908] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[09:15:48.345] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[09:15:48.348] Command line: /usr/bin/weston --log=/weston.log
+[09:15:48.348] OS: Linux, 5.4.70-2.3.0, #8 SMP PREEMPT Tue Mar 21 22:29:51 PDT 2023, aarch64
+[09:15:48.348] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[09:20:52.694] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[09:20:52.698] Command line: /usr/bin/weston --log=/weston.log
+[09:20:52.698] OS: Linux, 5.4.70-2.3.0, #8 SMP PREEMPT Tue Mar 21 22:29:51 PDT 2023, aarch64
+[09:20:52.698] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[09:28:02.075] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[09:28:02.076] Command line: /usr/bin/weston --log=/weston.log
+[09:28:02.076] OS: Linux, 5.4.70-2.3.0, #9 SMP PREEMPT Tue Mar 21 22:42:35 PDT 2023, aarch64
+[09:28:02.076] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[10:25:51.152] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[10:25:51.164] Command line: /usr/bin/weston --log=/weston.log
+[10:25:51.164] OS: Linux, 5.4.70-2.3.0, #10 SMP PREEMPT Tue Mar 21 23:39:45 PDT 2023, aarch64
+[10:25:51.164] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[11:06:54.165] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[11:06:54.166] Command line: /usr/bin/weston --log=/weston.log
+[11:06:54.166] OS: Linux, 5.4.70-2.3.0, #11 SMP PREEMPT Wed Mar 22 00:17:25 PDT 2023, aarch64
+[11:06:54.166] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[11:28:08.882] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[11:28:08.884] Command line: /usr/bin/weston --log=/weston.log
+[11:28:08.884] OS: Linux, 5.4.70-2.3.0, #12 SMP PREEMPT Wed Mar 22 00:36:20 PDT 2023, aarch64
+[11:28:08.884] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[12:51:29.470] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:51:29.472] Command line: /usr/bin/weston --log=/weston.log
+[12:51:29.472] OS: Linux, 5.4.70-2.3.0, #13 SMP PREEMPT Wed Mar 22 02:04:09 PDT 2023, aarch64
+[12:51:29.472] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[14:12:10.938] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[14:12:10.940] Command line: /usr/bin/weston --log=/weston.log
+[14:12:10.940] OS: Linux, 5.4.70-2.3.0, #14 SMP PREEMPT Wed Mar 22 03:18:54 PDT 2023, aarch64
+[14:12:10.940] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-04 CST
+[15:54:55.995] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[15:54:56.004] Command line: /usr/bin/weston --log=/weston.log
+[15:54:56.004] OS: Linux, 5.4.70-2.3.0, #15 SMP PREEMPT Wed Mar 22 05:05:10 PDT 2023, aarch64
+[15:54:56.004] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[05:43:56.145] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:43:56.147] Command line: /usr/bin/weston --log=/weston.log
+[05:43:56.147] OS: Linux, 5.4.70-2.3.0, #16 SMP PREEMPT Wed Mar 22 18:56:54 PDT 2023, aarch64
+[05:43:56.147] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[05:56:22.580] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:56:22.581] Command line: /usr/bin/weston --log=/weston.log
+[05:56:22.581] OS: Linux, 5.4.70-2.3.0, #17 SMP PREEMPT Wed Mar 22 19:08:13 PDT 2023, aarch64
+[05:56:22.581] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[06:32:53.511] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[06:32:53.524] Command line: /usr/bin/weston --log=/weston.log
+[06:32:53.525] OS: Linux, 5.4.70-2.3.0, #17 SMP PREEMPT Wed Mar 22 19:08:13 PDT 2023, aarch64
+[06:32:53.525] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[06:46:37.812] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[06:46:37.814] Command line: /usr/bin/weston --log=/weston.log
+[06:46:37.814] OS: Linux, 5.4.70-2.3.0, #18 SMP PREEMPT Wed Mar 22 19:55:13 PDT 2023, aarch64
+[06:46:37.814] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[07:08:31.901] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[07:08:31.903] Command line: /usr/bin/weston --log=/weston.log
+[07:08:31.903] OS: Linux, 5.4.70-2.3.0, #19 SMP PREEMPT Wed Mar 22 20:21:47 PDT 2023, aarch64
+[07:08:31.903] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[07:31:07.825] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[07:31:07.831] Command line: /usr/bin/weston --log=/weston.log
+[07:31:07.832] OS: Linux, 5.4.70-2.3.0, #20 SMP PREEMPT Wed Mar 22 20:44:43 PDT 2023, aarch64
+[07:31:07.832] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[10:12:26.253] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[10:12:26.261] Command line: /usr/bin/weston --log=/weston.log
+[10:12:26.261] OS: Linux, 5.4.70-2.3.0, #21 SMP PREEMPT Wed Mar 22 23:22:18 PDT 2023, aarch64
+[10:12:26.261] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[11:49:34.316] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[11:49:34.317] Command line: /usr/bin/weston --log=/weston.log
+[11:49:34.317] OS: Linux, 5.4.70-2.3.0, #21 SMP PREEMPT Wed Mar 22 23:22:18 PDT 2023, aarch64
+[11:49:34.317] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[12:01:43.861] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:01:43.871] Command line: /usr/bin/weston --log=/weston.log
+[12:01:43.871] OS: Linux, 5.4.70-2.3.0, #22 SMP PREEMPT Thu Mar 23 01:12:22 PDT 2023, aarch64
+[12:01:43.871] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[12:07:19.257] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:07:19.260] Command line: /usr/bin/weston --log=/weston.log
+[12:07:19.260] OS: Linux, 5.4.70-2.3.0, #23 SMP PREEMPT Thu Mar 23 01:18:59 PDT 2023, aarch64
+[12:07:19.260] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-05 CST
+[14:18:29.392] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[14:18:29.394] Command line: /usr/bin/weston --log=/weston.log
+[14:18:29.394] OS: Linux, 5.4.70-2.3.0, #24 SMP PREEMPT Thu Mar 23 03:31:02 PDT 2023, aarch64
+[14:18:29.394] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-06 CST
+[04:55:49.849] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[04:55:49.851] Command line: /usr/bin/weston --log=/weston.log
+[04:55:49.851] OS: Linux, 5.4.70-2.3.0, #24 SMP PREEMPT Thu Mar 23 03:31:02 PDT 2023, aarch64
+[04:55:49.851] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-06 CST
+[05:28:48.206] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:28:48.207] Command line: /usr/bin/weston --log=/weston.log
+[05:28:48.207] OS: Linux, 5.4.70-2.3.0, #25 SMP PREEMPT Thu Mar 23 18:42:08 PDT 2023, aarch64
+[05:28:48.207] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-06 CST
+[05:37:03.671] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:37:03.672] Command line: /usr/bin/weston --log=/weston.log
+[05:37:03.672] OS: Linux, 5.4.70-2.3.0, #26 SMP PREEMPT Thu Mar 23 18:50:18 PDT 2023, aarch64
+[05:37:03.672] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-04-06 CST
+[06:48:44.042] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[06:48:44.045] Command line: /usr/bin/weston --log=/weston.log
+[06:48:44.045] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[06:48:44.045] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-09 CST
+[15:09:09.170] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[15:09:09.172] Command line: /usr/bin/weston --log=/weston.log
+[15:09:09.172] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[15:09:09.172] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[04:46:16.696] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[04:46:16.697] Command line: /usr/bin/weston --log=/weston.log
+[04:46:16.697] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[04:46:16.698] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[05:49:19.355] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:49:19.356] Command line: /usr/bin/weston --log=/weston.log
+[05:49:19.356] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[05:49:19.356] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[06:38:17.084] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[06:38:17.085] Command line: /usr/bin/weston --log=/weston.log
+[06:38:17.085] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[06:38:17.085] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[11:02:44.856] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[11:02:44.873] Command line: /usr/bin/weston --log=/weston.log
+[11:02:44.873] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[11:02:44.873] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[12:40:56.635] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:40:56.642] Command line: /usr/bin/weston --log=/weston.log
+[12:40:56.643] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[12:40:56.643] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-10 CST
+[15:11:41.111] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[15:11:41.114] Command line: /usr/bin/weston --log=/weston.log
+[15:11:41.114] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[15:11:41.114] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-11 CST
+[05:45:28.438] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[05:45:28.440] Command line: /usr/bin/weston --log=/weston.log
+[05:45:28.440] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[05:45:28.440] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-11 CST
+[12:58:59.453] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[12:58:59.509] Command line: /usr/bin/weston --log=/weston.log
+[12:58:59.509] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[12:58:59.509] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-12 CST
+[03:13:56.837] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[03:13:56.839] Command line: /usr/bin/weston --log=/weston.log
+[03:13:56.840] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[03:13:56.840] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
+Date: 2022-05-12 CST
+[11:45:30.267] weston 9.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 9.0.0-34-ga1823f20+
+[11:45:30.269] Command line: /usr/bin/weston --log=/weston.log
+[11:45:30.269] OS: Linux, 5.4.70-2.3.0, #28 SMP PREEMPT Thu Mar 23 19:30:25 PDT 2023, aarch64
+[11:45:30.269] fatal: environment variable XDG_RUNTIME_DIR is not set.
+Refer to your distribution on how to get it, or
+http://www.freedesktop.org/wiki/Specifications/basedir-spec
+on how to implement it.
